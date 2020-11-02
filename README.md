@@ -1,4 +1,6 @@
 - :school: Undergraduate Student in University of Bristol
+- :information_desk_person: driven by curiosity
+- :musical_keyboard: carpe diem
 
 [![wuhjie's github stats](https://github-readme-stats.vercel.app/api?username=wuhjie&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
