@@ -1,7 +1,7 @@
-- :computer: year 2 computer science student
+- :computer: Year 2 computer science student
 - :school: University of Bristol
-- :information_desk_person: driven by curiosity
-- :musical_keyboard: carpe diem
+- :information_desk_person: Driven by curiosity
+- :musical_keyboard: Carpe Diem
 
 [![wuhjie's github stats](https://github-readme-stats.vercel.app/api?username=wuhjie&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
