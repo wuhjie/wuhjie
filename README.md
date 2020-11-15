@@ -8,3 +8,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuhjie&layout=compact&langs_count=7&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wuhjie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wuhjie)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wuhjie)](https://github.com/ryo-ma/github-profile-trophy)
