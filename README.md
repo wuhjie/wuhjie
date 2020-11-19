@@ -3,7 +3,7 @@
 - :information_desk_person: Driven by curiosity
 - :musical_keyboard: Carpe Diem
 
-<!--[![wuhjie's github stats](https://github-readme-stats.vercel.app/api?username=wuhjie&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)-->
+[![wuhjie's github stats](https://github-readme-stats.vercel.app/api?username=wuhjie&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuhjie&langs_count=7&card_width=445&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
