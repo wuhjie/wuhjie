@@ -1,5 +1,4 @@
-- :computer: Year 2 computer science student
-- :school: University of Bristol
+- :school: University of Bristol | Computer Science | Year 2
 - :information_desk_person: Driven by curiosity
 - :musical_keyboard: Carpe Diem
 
