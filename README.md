@@ -2,11 +2,11 @@
 - :musical_keyboard: Carpe Diem
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 192 Contributions in the Year 2021
+> 🏆 193 Contributions in the Year 2021
  > 
 > 📦 557.7 kB Used in Github's Storage 
  > 
@@ -22,17 +22,17 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 59 mins             ████████████████████████░   98.67% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
+Markdown                 2 hrs 12 mins       ████████████████████████░   99.4% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.0%
+VS Code                  2 hrs 13 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.0%
+Mac                      2 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/06/2021
+ Last Updated on 22/06/2021
 <!--END_SECTION:waka-->
