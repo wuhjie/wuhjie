@@ -6,15 +6,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 194 Contributions in the Year 2021
+> 🏆 200 Contributions in the Year 2021
  > 
-> 📦 557.7 kB Used in Github's Storage 
+> 📦 561.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -22,17 +22,17 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 7 mins        ████████████████████████░   99.37% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+Markdown                 2 hrs 37 mins       ████████████████████████░   98.16% 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      2 hrs 8 mins        █████████████████████████   100.0%
+Mac                      2 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/06/2021
+ Last Updated on 24/06/2021
 <!--END_SECTION:waka-->
