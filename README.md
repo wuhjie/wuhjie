@@ -2,11 +2,11 @@
 - :musical_keyboard: Carpe Diem
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 266 Contributions in the Year 2021
+> 🏆 267 Contributions in the Year 2021
  > 
 > 📦 579.1 kB Used in Github's Storage 
  > 
@@ -38,5 +38,5 @@ Mac                      23 hrs 5 mins       ███████████�
 ```
 
 
- Last Updated on 22/08/2021
+ Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
