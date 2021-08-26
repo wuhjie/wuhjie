@@ -1,5 +1,5 @@
 - :school: University of Bristol | Computer Science | Year 2
-- :panda: From Chengdu, Sichuan, China
+- :panda_face: From Chengdu, Sichuan, China
 - :musical_keyboard: Carpe Diem
 
 <!--START_SECTION:waka-->
