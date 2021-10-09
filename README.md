@@ -3,24 +3,24 @@
 - :musical_keyboard: Carpe Diem
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115869%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115872%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    22 hrs 32 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  22 hrs 32 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 hrs 32 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/10/2021
+ Last Updated on 09/10/2021
 <!--END_SECTION:waka-->
