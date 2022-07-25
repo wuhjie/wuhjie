@@ -1,3 +1,3 @@
-- :school: Final Year, Computer Science, University of Bristol 
+- :school: BSc Computer Science, University of Bristol 
 - :panda_face: From Chengdu, Sichuan, China
 - :musical_keyboard: Carpe Diem
