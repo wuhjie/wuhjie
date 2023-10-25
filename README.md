@@ -1,3 +1,4 @@
-- :school: Msc Machine Learning for Visual Data Analysis, BSc Computer Science, University of Bristol 
+- :school: Msc Machine Learning for Visual Data Analysis
+- 🏫: BSc Computer Science, University of Bristol
 - :panda_face: From Chengdu, Sichuan, China
 - :musical_keyboard: Carpe Diem
