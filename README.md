@@ -1,4 +1,1 @@
-- :school: MSc Machine Learning for Visual Data Analysis, Queen Mary University of London
-- :school: BSc Computer Science, University of Bristol
-- :panda_face: From Chengdu, Sichuan, China
-- :musical_keyboard: Carpe Diem
+
